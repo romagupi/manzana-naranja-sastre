@@ -1,0 +1,2 @@
+Si es diferenciable entonces es continua
+Si es continua entonces es integrable
